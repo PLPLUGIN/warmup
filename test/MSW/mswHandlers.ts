@@ -13,4 +13,4 @@ export const handlers = [
       statusText: 'Wszystko git',
     })
   }),
-]
+];

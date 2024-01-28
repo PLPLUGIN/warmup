@@ -43,7 +43,7 @@ describe("Filmy (e2e)", () => {
       .expect(200)
       .expect((response) => {
         const responseData = response.body;
-        expect(responseData).toBeDefined(); //jaki kolwiek response
+        expect(responseData).toBeDefined();
         });
   });
 
